@@ -1,0 +1,11 @@
+{
+  "env": {
+    "DEMO_KEY": "@demo_key"
+  },
+
+  "build": {
+    "env": {
+      "DEMO_KEY": "@demo_key"
+    }
+  }
+}
